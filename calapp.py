@@ -1,5 +1,6 @@
 import streamlit as st
 import math
+import matplotlib.pyplot as plt
 # Functions for scientific operations
 def add(x, y):
     return x + y
