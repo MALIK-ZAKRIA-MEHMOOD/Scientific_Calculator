@@ -1,5 +1,5 @@
 import streamlit as st
-
+import math
 # Functions for scientific operations
 def add(x, y):
     return x + y
