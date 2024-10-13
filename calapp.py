@@ -128,4 +128,4 @@ elif operation_type == "Plot Graph":
 
 # Footer
 st.markdown("---")
-st.markdown("### Designed by [Your Name](https://your-portfolio-link.com)")
+st.markdown("### Designed by [Your Name](https://https://github.com/MALIK-ZAKRIA-MEHMOOD)")
